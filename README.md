@@ -5,11 +5,15 @@
 This is a personal change log to track my progress for March 2020. 
 
 ## Main Categories
+
 🚶‍♀️ - Exercise
+
 💻 - Code - Building / Learning
 
 ### Goals
+
 🚶‍♀️ - Walk 4-5 days or more a week
+
 💻 - Work on Beginner JavaScript coursework
 
 ---
