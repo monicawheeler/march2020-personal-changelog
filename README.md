@@ -18,9 +18,19 @@ This is a personal change log to track my progress for March 2020.
 
 ---
 
+### Friday, March 6th
+
+🚶‍♀️ - Walked!
+
+💻 - Watched beginnerjavascript.com episodes on functions
+
+---
+
 ### Thursday, March 5th
 
 🚶‍♀️ - Walked!
+
+💻 - Watched beginnerjavascript.com episodes on types
 
 ---
 
