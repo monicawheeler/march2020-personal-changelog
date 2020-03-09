@@ -16,6 +16,12 @@ This is a personal change log to track my progress for March 2020.
 
 💻 - Work on Beginner JavaScript coursework
 
+--- 
+
+### Monday, March 9th
+
+🚶‍♀️ - sick day
+
 ---
 
 ### Sunday, March 8th
