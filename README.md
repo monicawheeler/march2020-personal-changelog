@@ -18,6 +18,12 @@ This is a personal change log to track my progress for March 2020.
 
 --- 
 
+### Tuesday, March 10th
+
+🚶‍♀️ - walked
+
+--- 
+
 ### Monday, March 9th
 
 🚶‍♀️ - sick day
