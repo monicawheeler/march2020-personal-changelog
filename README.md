@@ -18,6 +18,14 @@ This is a personal change log to track my progress for March 2020.
 
 --- 
 
+### Friday, March 13th
+
+🚶‍♀️- walked
+
+💻 - JavaScript study
+
+---
+
 ### Thursday, March 12th
 
 🚶‍♀️- walked
