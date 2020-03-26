@@ -16,6 +16,12 @@ This is a personal change log to track my progress for March 2020.
 
 💻 - Work on Beginner JavaScript coursework
 
+---  
+
+### Thursday, March 26th
+
+🚶‍♀️- walked
+
 --- 
 
 ### Wednesday, March 25th
