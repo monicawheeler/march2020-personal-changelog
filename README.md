@@ -18,6 +18,12 @@ This is a personal change log to track my progress for March 2020.
 
 ---  
 
+### Friday, March 27th
+
+🚶‍♀️- walked
+
+--- 
+
 ### Thursday, March 26th
 
 🚶‍♀️- walked
